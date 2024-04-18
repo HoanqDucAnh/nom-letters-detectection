@@ -1,0 +1,8 @@
+train: ../images_and_labels/images/train/
+val: ../images_and_labels/images/val/
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['nom-letter']
